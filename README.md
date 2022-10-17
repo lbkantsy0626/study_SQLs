@@ -2,3 +2,5 @@
 study SQLs 
 kimseoyeon
 seokjin
+
+짝수 기록
