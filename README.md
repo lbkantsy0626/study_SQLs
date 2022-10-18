@@ -13,3 +13,6 @@
 
 ### CategoryName_Products.sql : 서브쿼리를 IN 이용해 실습
 - [query seokjin](./seokjin/w3schools/CategoryName_Products.sql)
+
+### CategoryName_Products_Order.sql : 서브쿼리를 IN 이용해 실습
+- [querey seokjin](./seokjin/w3schools/CategoryName_Products_Order.sql)
