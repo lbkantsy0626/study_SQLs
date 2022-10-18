@@ -16,3 +16,6 @@
 
 ### CategoryName_Products_Order.sql : 서브쿼리를 IN 이용해 실습
 - [querey seokjin](./seokjin/w3schools/CategoryName_Products_Order.sql)
+
+### Categories_Products_Count.sql : 서브쿼리를 GROUP BY 이용해 실습
+- [query seokjin](./seokjin/w3schools/Categories_Products_Count.sql)
