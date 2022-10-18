@@ -10,3 +10,6 @@
 
 ### Categories_Products_totals : 서브쿼리를 IN 이용해 실습
 - [query seokjin](./seokjin/w3schools/Categories_Products_totals.sql)
+
+### CategoryName_Products.sql : 서브쿼리를 IN 이용해 실습
+- [query seokjin](./seokjin/w3schools/CategoryName_Products.sql)
