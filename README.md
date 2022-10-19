@@ -22,3 +22,6 @@
 
 ### Products_Having.sql : 서브쿼리를 HAVING 이용해 실습
 - [query seokjin](./seokjin/w3schools/Products_Having.sql)
+
+### Users_Auths_query.sql : MySQL 실습
+- [query seokjin](./seokjin/w3schools/Users_Auths_query.sql)
