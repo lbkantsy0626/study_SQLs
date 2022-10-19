@@ -19,3 +19,6 @@
 
 ### Categories_Products_Count.sql : 서브쿼리를 GROUP BY 이용해 실습
 - [query seokjin](./seokjin/w3schools/Categories_Products_Count.sql)
+
+### Products_Having.sql : 서브쿼리를 HAVING 이용해 실습
+- [query seokjin](./seokjin/w3schools/Products_Having.sql)
