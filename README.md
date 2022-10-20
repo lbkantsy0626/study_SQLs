@@ -28,3 +28,7 @@
 
 ### Products_CategoryID.sql : 서브쿼리를 INNER JOIN 이용해 실습
 - [query seokjin](./seokjin/w3schools/Products_CategoryID.sql)
+
+### Products_Quantity.sql : 서브쿼리를 INNER JOIN 이용해 실습
+- [query seokjin](./seokjin/w3schools/Products_Quantity.sql)
+
